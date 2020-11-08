@@ -7,5 +7,5 @@ for i in f:
     while(flag > 0):
         result += flag
         flag = int(flag / 3) - 2
-        
+
 print(result)
