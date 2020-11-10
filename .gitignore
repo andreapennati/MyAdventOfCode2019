@@ -1,0 +1,28 @@
+# Created by https://www.toptal.com/developers/gitignore/api/venv,vscode
+# Edit at https://www.toptal.com/developers/gitignore?templates=venv,vscode
+
+### venv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+venv/
+pip-selfcheck.json
+
+### vscode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.DS_Store
+
+# End of https://www.toptal.com/developers/gitignore/api/venv,vscode
