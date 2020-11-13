@@ -27,7 +27,7 @@ def parse(bucket:list, i:int):
     c = bucket[i] // 100 % 10
     b = bucket[i] // 1000 % 10
     a = bucket[i] // 10000 % 10
-    return [de, c, b, a]
+    return de, c, b, a
 
 def choose(i:int, select:int):
     if select:
