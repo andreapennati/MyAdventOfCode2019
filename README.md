@@ -9,4 +9,14 @@
 |4   |  [Secure Container](https://github.com/ndrep/advent-of-code/tree/main/2019/4) |   
 |5   |  [Sunny with a Chance of Asteroids](https://github.com/ndrep/advent-of-code/tree/main/2019/5) |   
 |6   |  [Universal Orbit Map](https://github.com/ndrep/advent-of-code/tree/main/2019/6) |   
+
+
+| 2020  |  Solution |
+|---|---|
+|1   |  |   
+|2   |   |   
+|3   |   |   
+|4   |   |   
+|5   |   |   
+|6   |   |  
  
