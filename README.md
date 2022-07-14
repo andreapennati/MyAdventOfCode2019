@@ -9,6 +9,7 @@
 |4   |  [Secure Container](https://github.com/ndrep/advent-of-code/tree/main/2019/4) |   
 |5   |  [Sunny with a Chance of Asteroids](https://github.com/ndrep/advent-of-code/tree/main/2019/5) |   
 |6   |  [Universal Orbit Map](https://github.com/ndrep/advent-of-code/tree/main/2019/6) |   
+|7   |  [Amplification Circuit](https://adventofcode.com/2019/day/7) |
 
 
 | 2020  |  Solution |
